@@ -935,7 +935,7 @@ html:not(.lt-ie10) .not-animated {
 keyframes
 
 -------------------------------- */
-@  -webkit-keyframes scaleIn {
+@-webkit-keyframes scaleIn {
     from {
     -webkit-transform: translateY(-50%) scale(0);
   }
@@ -1048,7 +1048,7 @@ main#main {
 }
 
 body.fullscreendark #main>section#home {
-  background-image: url('../img/fullscreendark.jpeg');
+  background-image: url('../img/Me.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
